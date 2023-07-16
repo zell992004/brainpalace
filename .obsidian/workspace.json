@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "902a5c355c2d5de7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f14087d64ed69c68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "955d896af492425f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-07-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "291ac51a5eec1e4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "28af1ac845cc4a5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33de80f0bb17eb12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d90d9c65aebc7796",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e94f1a697ce61c43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7794a5a935ae0ebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "832bcbe103e804ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28483daff4ecb7ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2023-07-16.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "592131b0e8510779",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2023-07-16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70781fdcb92a30fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "136947f7aa64551a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/2023-07-16.md"
+              }
+            }
+          },
+          {
+            "id": "42e3719297f135b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "33de80f0bb17eb12",
+  "lastOpenFiles": [
+    "Computers/OSCP/Documentation/Medtech",
+    "Computers/OSCP/Documentation",
+    "Computers/CMD Fun Bash powershell",
+    "Computers/OSCP",
+    "Untitled",
+    "Work",
+    "Computers",
+    "daily/2023-07-16.md",
+    "daily",
+    "2023-07-17.md",
+    "2023-07-16.md",
+    "Untitled.canvas"
+  ]
+}
