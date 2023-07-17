@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-07-16.md",
+                "file": "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#SQL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-07-16.md",
+                "file": "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-07-16.md",
+                "file": "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-07-16.md"
+                "file": "Computers/OSCP/Documentation/Medtech/121/121 web enum.md"
               }
             }
           },
@@ -154,19 +154,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33de80f0bb17eb12",
+  "active": "955d896af492425f",
   "lastOpenFiles": [
-    "Computers/OSCP/Documentation/Medtech",
-    "Computers/OSCP/Documentation",
-    "Computers/CMD Fun Bash powershell",
-    "Computers/OSCP",
-    "Untitled",
-    "Work",
-    "Computers",
     "daily/2023-07-16.md",
-    "daily",
-    "2023-07-17.md",
-    "2023-07-16.md",
-    "Untitled.canvas"
+    "Untitled.canvas",
+    "Templates/Daily.md",
+    "Computers/methodolgies/PENTESTING.md",
+    "Computers/OSCP/Documentation/Medtech/Steps Taken.md",
+    "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
+    "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
+    "Computers/OSCP/Documentation/Medtech/121/Untitled",
+    "Pasted image 20230716160036.png",
+    "Pasted image 20230716155847.png",
+    "Computers/OSCP/Documentation/Medtech/121/SLQ Injection found.md",
+    "Computers/OSCP/Documentation/Medtech/121/121 Enumeration.md",
+    "Computers/OSCP/Documentation/Medtech/122",
+    "Computers/OSCP/Documentation/Medtech/120",
+    "Computers/OSCP/Documentation/Medtech/120/120 Enumeration.md",
+    "Computers/OSCP/Documentation/Medtech/122/122 Enumeration.md",
+    "Computers/methodolgies",
+    "Computers/Untitled.md",
+    "Computers/OSCP/Documentation/Medtech/Targets.md",
+    "Computers/Obsidian/Dataview.md",
+    "Computers/OSCP/Enumeration/Nmap.md",
+    "Computers/CMD Fun Bash powershell/Scripts/BASH/nmapAutomator.md",
+    "Templates/Enumeration.md",
+    "Templates/Notes (OSCP).md",
+    "Computers/CMD Fun Bash powershell/Oneliners.md",
+    "Computers/CMD Fun Bash powershell/Scripts/BASH",
+    "Computers/CMD Fun Bash powershell/Scripts/Untitled.md",
+    "Computers/CMD Fun Bash powershell/Scripts",
+    "Computers/OSCP/Documentation/Medtech/121",
+    "nmapscan.md",
+    "Work/Tickets/INC/INC0090865.md",
+    "Templates/SREQ.md",
+    "Templates/NH.md",
+    "Templates/INC.md",
+    "Templates/Hardware.md",
+    "Work/Tickets/NewHires/RITM0034141.md",
+    "Work/Tickets/Hardware",
+    "Work/Tickets/NewHires",
+    "Templates/Untitled"
   ]
 }
