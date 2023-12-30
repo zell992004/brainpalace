@@ -26,3 +26,8 @@
 + 8105 requests: 0 error(s) and 6 item(s) reported on remote host
 + End Time:           2023-07-16 15:01:56 (GMT-4) (227 seconds)
 
+After some time of not doing OSCP related things, have found new tool AutoRecon that does not break oscp rules testing here
+
+
+
+[[SLQ Injection found]]

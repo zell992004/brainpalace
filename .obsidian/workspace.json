@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
+                "file": "Computers/OSCP/Documentation/Medtech/121/SLQ Injection found.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2459cc0f6ca1c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computers/OSCP/Documentation/Medtech/121/121 Enumeration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f40ce485ba3f257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8777e62612b5258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computers/OSCP/Documentation/Medtech/121/priv esc.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
+                "file": "Computers/OSCP/Documentation/Medtech/121/priv esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
+                "file": "Computers/OSCP/Documentation/Medtech/121/priv esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/121 web enum.md"
+                "file": "Computers/OSCP/Documentation/Medtech/121/priv esc.md"
               }
             }
           },
@@ -142,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,20 +191,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "955d896af492425f",
+  "active": "a8777e62612b5258",
   "lastOpenFiles": [
+    "Computers/OSCP/Documentation/Medtech/121/Pivot.md",
+    "Computers/OSCP/Documentation/Medtech/121/priv esc.md",
+    "Computers/OSCP/Documentation/Medtech/121/SLQ Injection found.md",
+    "Computers/OSCP/Documentation/Medtech/121/Tesing Autorecon on 121.md",
+    "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
+    "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
+    "121 Priv esc.md",
+    "Computers/CMD Fun Bash powershell/Oneliners.md",
+    "Computers/OSCP/Documentation/Medtech/121/121 Enumeration.md",
+    "Computers/methodolgies/PENTESTING.md",
+    "Templates/SREQ.md",
+    "Templates/INC.md",
     "daily/2023-07-16.md",
     "Untitled.canvas",
     "Templates/Daily.md",
-    "Computers/methodolgies/PENTESTING.md",
     "Computers/OSCP/Documentation/Medtech/Steps Taken.md",
-    "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
-    "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
     "Computers/OSCP/Documentation/Medtech/121/Untitled",
     "Pasted image 20230716160036.png",
     "Pasted image 20230716155847.png",
-    "Computers/OSCP/Documentation/Medtech/121/SLQ Injection found.md",
-    "Computers/OSCP/Documentation/Medtech/121/121 Enumeration.md",
     "Computers/OSCP/Documentation/Medtech/122",
     "Computers/OSCP/Documentation/Medtech/120",
     "Computers/OSCP/Documentation/Medtech/120/120 Enumeration.md",
@@ -180,18 +224,11 @@
     "Computers/CMD Fun Bash powershell/Scripts/BASH/nmapAutomator.md",
     "Templates/Enumeration.md",
     "Templates/Notes (OSCP).md",
-    "Computers/CMD Fun Bash powershell/Oneliners.md",
     "Computers/CMD Fun Bash powershell/Scripts/BASH",
     "Computers/CMD Fun Bash powershell/Scripts/Untitled.md",
     "Computers/CMD Fun Bash powershell/Scripts",
     "Computers/OSCP/Documentation/Medtech/121",
     "nmapscan.md",
-    "Work/Tickets/INC/INC0090865.md",
-    "Templates/SREQ.md",
-    "Templates/NH.md",
-    "Templates/INC.md",
-    "Templates/Hardware.md",
-    "Work/Tickets/NewHires/RITM0034141.md",
     "Work/Tickets/Hardware",
     "Work/Tickets/NewHires",
     "Templates/Untitled"
