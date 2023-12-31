@@ -31,3 +31,9 @@ on attack box
 
 I ran a full scan of all targets last night but was taking a long time. In most cases, I would go thru the data I already had, and look for a box to narrow in on scanning again, As I have experience with this box already, I have gone from my old notes, and saw that I went into the .11 box next. I am avoiding using my old notes to continue on, I want to see what I see with autorecon, and running a narrowed scan on .11
 
+I see that SMB ports are open, reminder to self, autorecon takes its time ill have to look into ways to speed it up if possible, also junks up the pipe so much I dont think I can try other things..
+
+
+
+
+
