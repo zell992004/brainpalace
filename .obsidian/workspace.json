@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "902a5c355c2d5de7",
+    "id": "a76a7d7c03765d65",
     "type": "split",
     "children": [
       {
-        "id": "f14087d64ed69c68",
+        "id": "79526f332885d4ba",
         "type": "tabs",
         "children": [
           {
-            "id": "955d896af492425f",
+            "id": "7b9f3658dd299304",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "291ac51a5eec1e4c",
+    "id": "0629bef8b75f3d2e",
     "type": "split",
     "children": [
       {
-        "id": "28af1ac845cc4a5a",
+        "id": "35f12399ff83ae07",
         "type": "tabs",
         "children": [
           {
-            "id": "33de80f0bb17eb12",
+            "id": "26d69809a60c0fad",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +39,12 @@
             }
           },
           {
-            "id": "d90d9c65aebc7796",
+            "id": "4960dc6c57a04b12",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SQL",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "e94f1a697ce61c43",
+            "id": "55aa7d02c17781cd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,27 @@
     "width": 300
   },
   "right": {
-    "id": "7794a5a935ae0ebc",
+    "id": "f34252164a0dcc14",
     "type": "split",
     "children": [
       {
-        "id": "832bcbe103e804ed",
+        "id": "d3a2ae46a7cbe447",
         "type": "tabs",
         "children": [
           {
-            "id": "28483daff4ecb7ce",
+            "id": "fa78286a675f6e17",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6aa33aedd83e1ea9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +100,18 @@
             }
           },
           {
-            "id": "592131b0e8510779",
+            "id": "4dc776842370cac6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "70781fdcb92a30fc",
+            "id": "bdb5aa73f0605338",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,29 +122,18 @@
             }
           },
           {
-            "id": "136947f7aa64551a",
+            "id": "1dacfc34c14870c4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/121 web enum.md"
-              }
-            }
-          },
-          {
-            "id": "42e3719297f135b4",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -155,46 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "955d896af492425f",
-  "lastOpenFiles": [
-    "daily/2023-07-16.md",
-    "Untitled.canvas",
-    "Templates/Daily.md",
-    "Computers/methodolgies/PENTESTING.md",
-    "Computers/OSCP/Documentation/Medtech/Steps Taken.md",
-    "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
-    "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
-    "Computers/OSCP/Documentation/Medtech/121/Untitled",
-    "Pasted image 20230716160036.png",
-    "Pasted image 20230716155847.png",
-    "Computers/OSCP/Documentation/Medtech/121/SLQ Injection found.md",
-    "Computers/OSCP/Documentation/Medtech/121/121 Enumeration.md",
-    "Computers/OSCP/Documentation/Medtech/122",
-    "Computers/OSCP/Documentation/Medtech/120",
-    "Computers/OSCP/Documentation/Medtech/120/120 Enumeration.md",
-    "Computers/OSCP/Documentation/Medtech/122/122 Enumeration.md",
-    "Computers/methodolgies",
-    "Computers/Untitled.md",
-    "Computers/OSCP/Documentation/Medtech/Targets.md",
-    "Computers/Obsidian/Dataview.md",
-    "Computers/OSCP/Enumeration/Nmap.md",
-    "Computers/CMD Fun Bash powershell/Scripts/BASH/nmapAutomator.md",
-    "Templates/Enumeration.md",
-    "Templates/Notes (OSCP).md",
-    "Computers/CMD Fun Bash powershell/Oneliners.md",
-    "Computers/CMD Fun Bash powershell/Scripts/BASH",
-    "Computers/CMD Fun Bash powershell/Scripts/Untitled.md",
-    "Computers/CMD Fun Bash powershell/Scripts",
-    "Computers/OSCP/Documentation/Medtech/121",
-    "nmapscan.md",
-    "Work/Tickets/INC/INC0090865.md",
-    "Templates/SREQ.md",
-    "Templates/NH.md",
-    "Templates/INC.md",
-    "Templates/Hardware.md",
-    "Work/Tickets/NewHires/RITM0034141.md",
-    "Work/Tickets/Hardware",
-    "Work/Tickets/NewHires",
-    "Templates/Untitled"
-  ]
+  "active": "7b9f3658dd299304",
+  "lastOpenFiles": []
 }
