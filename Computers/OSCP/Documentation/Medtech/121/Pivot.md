@@ -21,8 +21,13 @@ on victem
 .\agent -connect 192.168.45.228:11601 -ignore-cert
 ```
 
+Forgot to add here, that we need to run ifconfig to check and see if there are other connections to the box. this was done here, and the connection to the 172.16.201.xx network was found. 
+
 on attack box
 
 ``` bash 
  sudo ip route add <network_address>/<CIDR> dev ligolo
 ```
+
+I ran a full scan of all targets last night but was taking a long time. In most cases, I would go thru the data I already had, and look for a box to narrow in on scanning again, As I have experience with this box already, I have gone from my old notes, and saw that I went into the .11 box next. I am avoiding using my old notes to con
+
