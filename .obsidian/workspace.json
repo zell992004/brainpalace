@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,5 +147,8 @@
     }
   },
   "active": "7b9f3658dd299304",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Computers/CMD Fun Bash powershell/Powershell/modules.md",
+    "Computers/CMD Fun Bash powershell/Powershell"
+  ]
 }
