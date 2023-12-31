@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d80a88b3bb14f32a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/Pivot.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/Pivot.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/Pivot.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -191,10 +203,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8777e62612b5258",
+  "active": "d80a88b3bb14f32a",
   "lastOpenFiles": [
-    "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
     "Computers/OSCP/Documentation/Medtech/121/Pivot.md",
+    "conflict-files-obsidian-git.md",
+    "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
     "Computers/OSCP/Documentation/Medtech/121/priv esc.md",
     "Computers/OSCP/Documentation/Medtech/121/SLQ Injection found.md",
     "Computers/OSCP/Documentation/Medtech/121/Tesing Autorecon on 121.md",
@@ -228,7 +241,6 @@
     "Templates/Enumeration.md",
     "Templates/Notes (OSCP).md",
     "Computers/CMD Fun Bash powershell/Scripts/BASH",
-    "Computers/CMD Fun Bash powershell/Scripts/Untitled.md",
     "Computers/CMD Fun Bash powershell/Scripts",
     "Computers/OSCP/Documentation/Medtech/121",
     "Work/Tickets/Hardware"
