@@ -1,5 +1,7 @@
 [
   "calendar",
   "obsidian-pandoc",
-  "dataview"
+  "dataview",
+  "obsidian-git",
+  "obsidian-tasks-plugin"
 ]
