@@ -35,4 +35,4 @@ I see that SMB ports are open, reminder to self, autorecon takes its time ill ha
 
 And my thoughts were right, auto reacon really junks the env. I dont know if i would use this in a live env. But for this it is good enough.. 
 
-on to [[]]
+on to [[Computers/OSCP/Documentation/Medtech/11/Enumeration|Enumeration]] on .11
