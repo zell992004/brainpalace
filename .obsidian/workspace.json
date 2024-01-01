@@ -205,8 +205,9 @@
   },
   "active": "75006de580d31080",
   "lastOpenFiles": [
-    "Computers/OSCP/Documentation/Medtech/121/priv esc.md",
+    "Computers/methodolgies/PENTESTING.md",
     "Computers/OSCP/Documentation/Medtech/121/Pivot.md",
+    "Computers/OSCP/Documentation/Medtech/121/priv esc.md",
     "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
     "121 Priv esc.md",
     "conflict-files-obsidian-git.md",
@@ -218,7 +219,6 @@
     "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
     "Computers/CMD Fun Bash powershell/Oneliners.md",
     "Computers/OSCP/Documentation/Medtech/121/121 Enumeration.md",
-    "Computers/methodolgies/PENTESTING.md",
     "Templates/SREQ.md",
     "Templates/INC.md",
     "daily/2023-07-16.md",

