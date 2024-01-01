@@ -203,10 +203,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75006de580d31080",
+  "active": "33de80f0bb17eb12",
   "lastOpenFiles": [
-    "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
+    "Computers/OSCP/Documentation/Medtech/11/Enumeration.md",
     "Computers/OSCP/Documentation/Medtech/121/Pivot.md",
+    "Computers/OSCP/Documentation/Medtech/11",
+    "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
     "Computers/methodolgies/PENTESTING.md",
     "Computers/OSCP/Documentation/Medtech/121/priv esc.md",
     "121 Priv esc.md",
@@ -239,10 +241,8 @@
     "Computers/OSCP/Enumeration/Nmap.md",
     "Computers/CMD Fun Bash powershell/Scripts/BASH/nmapAutomator.md",
     "Templates/Enumeration.md",
-    "Templates/Notes (OSCP).md",
     "Computers/CMD Fun Bash powershell/Scripts/BASH",
     "Computers/CMD Fun Bash powershell/Scripts",
-    "Computers/OSCP/Documentation/Medtech/121",
-    "Work/Tickets/Hardware"
+    "Computers/OSCP/Documentation/Medtech/121"
   ]
 }
