@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
+                "file": "Computers/OSCP/Documentation/Medtech/121/Pivot.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
+                "file": "Computers/OSCP/Documentation/Medtech/121/Pivot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
+                "file": "Computers/OSCP/Documentation/Medtech/121/Pivot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md"
+                "file": "Computers/OSCP/Documentation/Medtech/121/Pivot.md"
               }
             }
           },
@@ -205,10 +205,10 @@
   },
   "active": "75006de580d31080",
   "lastOpenFiles": [
+    "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
     "Computers/OSCP/Documentation/Medtech/121/Pivot.md",
     "Computers/methodolgies/PENTESTING.md",
     "Computers/OSCP/Documentation/Medtech/121/priv esc.md",
-    "Computers/OSCP/Documentation/Medtech/121/121 Exploitation.md",
     "121 Priv esc.md",
     "conflict-files-obsidian-git.md",
     "Computers/OSCP/Documentation/Medtech/121/SLQ Injection found.md",
